@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "petergeeks",
+    "email": "petergeeks@gmail.com"
+  },
+  "records": {
+    "NS": [
+      "pola.ns.cloudflare.com",
+      "zahir.ns.cloudflare.com"
+    ]
+  }
+}
